@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
+- 💻 Analista de sistemas 
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando [Nome do Curso / Instituição]
 
