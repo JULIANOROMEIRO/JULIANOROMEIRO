@@ -4,7 +4,7 @@
 
 - 💻 Analista de sistemas 
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Nome do Curso / Instituição]
+- 🎓 Cursando Inteligência Artificail - Fiap/SP
 
 ## 🚀 Habilidades
 
