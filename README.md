@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou {Seu Nome}
+# 👋 Olá, eu sou Juliano Romeiro Rodrigues
 
 ## 💼 Perfil Profissional
 
